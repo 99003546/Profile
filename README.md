@@ -35,7 +35,8 @@ LTTS Intern
 # Badges
 
 ## Hackerrank Badges
-![Capture](https://user-images.githubusercontent.com/78849691/111938939-0f194d80-8af1-11eb-98aa-1c6867392135.JPG)
+![image](https://user-images.githubusercontent.com/78855186/112268353-d918cc80-8c9c-11eb-9f61-12e4f9b8640e.png)
+
 
 ## Microsoft Badges 
 [Achievements](https://docs.microsoft.com/en-us/users/medurinjsrilekha-2607/achievements)
