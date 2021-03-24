@@ -39,9 +39,7 @@ LTTS Intern
 
 
 ## Microsoft Badges 
-[Achievements](https://docs.microsoft.com/en-us/users/medurinjsrilekha-2607/achievements)
-
-![Badges_and_Trophies](https://user-images.githubusercontent.com/78849691/111939361-15f49000-8af2-11eb-913a-7bbb5ff89d38.JPG)
+![image](https://user-images.githubusercontent.com/78855186/112269398-55f87600-8c9e-11eb-9d14-b4957677736d.png)
 
 ## Certification
 
