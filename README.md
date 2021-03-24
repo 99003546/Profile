@@ -41,8 +41,7 @@ LTTS Intern
 ## Microsoft Badges 
 ![image](https://user-images.githubusercontent.com/78855186/112269398-55f87600-8c9e-11eb-9d14-b4957677736d.png)
 ![image](https://user-images.githubusercontent.com/78855186/112269469-6a3c7300-8c9e-11eb-848e-24c0f1fe71ff.png)
-
-
+![image](https://user-images.githubusercontent.com/78855186/112269526-79bbbc00-8c9e-11eb-9337-af9b18f281a5.png)
 ## Certification
 
 [Hackerrank Certificate](https://www.hackerrank.com/certificates/065874f1cb17)
