@@ -49,8 +49,8 @@ LTTS Intern
 ## Certification
 
 [Hackerrank Certificate](https://www.hackerrank.com/certificates/065874f1cb17)
+![image](https://user-images.githubusercontent.com/78855186/112268597-39a80980-8c9d-11eb-9fb4-e28419b90a67.png)
 
-![hackerRankC#](https://user-images.githubusercontent.com/78849691/111939787-2eb17580-8af3-11eb-9dcf-41404ed81c49.png)
 
 ## Links
 
