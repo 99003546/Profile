@@ -36,6 +36,8 @@ LTTS Intern
 
 ## Hackerrank Badges
 ![image](https://user-images.githubusercontent.com/78855186/112268353-d918cc80-8c9c-11eb-9f61-12e4f9b8640e.png)
+![image](https://user-images.githubusercontent.com/78855186/112268444-fd74a900-8c9c-11eb-931c-43f4e62883dd.png)
+
 
 
 ## Microsoft Badges 
