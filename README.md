@@ -1,6 +1,9 @@
 # Profile
 # Meduri N J Srilekha 
-99003546  
+# Contact Details
+Email:medurinj.srilekha@ltts.com    
+Phoneno:9640206918   
+Psnumber:99003546  
 LTTS Intern
 
 ## Technologies Learned:
